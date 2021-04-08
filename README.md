@@ -73,7 +73,7 @@ cd disenum
 python3 -m pip3 install -r requirements.txt
 ```
 
-### Windows
+#### Windows
 
 Download the latest Release for this repository as a ZIP, extract, then open Cmd Prompt in the directoy disenum is installed in and run:
 
